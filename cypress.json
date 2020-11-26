@@ -1,0 +1,7 @@
+{
+    "baseUrl" : "https://refactored--dia-slender-explorer-qa.netlify.app",
+    "env" :  {
+        "accesstoken": "",
+        "repo": "facebook/react"
+    }
+}
