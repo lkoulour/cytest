@@ -1,6 +1,6 @@
 # Test Automation project - Cypress
 
-  Experimentation with Cypress test automation tool
+  Experimentation with Cypress test automation tool. 
   Tests are located under cypress/integration/dia-test
 
 # Github Access token
