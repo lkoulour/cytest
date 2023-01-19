@@ -1,4 +1,4 @@
-# Dialectica Assignment - Cypress tests
+# POC - Cypress tests
 
   Tests are located under cypress/integration/dia-test
 
